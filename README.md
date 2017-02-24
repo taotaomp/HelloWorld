@@ -1,2 +1,10 @@
 # HelloWorld
-To test for first using GitHub
+//To test for first using GitHub
+#include<iostream>
+using namespace std;
+int main()
+{
+        cout<<"HelloWorld"<<endl;
+        system("pause");
+        return 0 ;
+}
